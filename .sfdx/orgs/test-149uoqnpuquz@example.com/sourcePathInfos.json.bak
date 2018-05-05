@@ -1,0 +1,140 @@
+[
+    [
+        "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app",
+        {
+            "sourcePath": "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1525545929571,
+            "changeTime": 1525545929571,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main",
+        {
+            "sourcePath": "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1525545929571,
+            "changeTime": 1525545929571,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default",
+        {
+            "sourcePath": "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1525546702320,
+            "changeTime": 1525546702320,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1525545929571,
+            "changeTime": 1525545929571,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018",
+        {
+            "sourcePath": "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1525546262936,
+            "changeTime": 1525546262936,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default/classes/ListOrgs.cls-meta.xml",
+        {
+            "sourcePath": "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default/classes/ListOrgs.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1525546702321,
+            "changeTime": 1525546702321,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default/classes/ListOrgs.cls",
+        {
+            "sourcePath": "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default/classes/ListOrgs.cls",
+            "isDirectory": false,
+            "size": 26,
+            "modifiedTime": 1525546702322,
+            "changeTime": 1525546702322,
+            "contentHash": "6affdc2e903e476b7598d4f3e39d2638130416e9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1525546739495,
+            "changeTime": 1525546739495,
+            "contentHash": "5a4b6345fdbf6871dd3484286a69aee4b7ceb126"
+        }
+    ],
+    [
+        "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default/classes/RunBackgroundCheck.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default/classes/RunBackgroundCheck.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 90,
+            "modifiedTime": 1525546739495,
+            "changeTime": 1525546739496,
+            "contentHash": "f82f3e0fd72f35557d464b41fa4da2d5669773b8"
+        }
+    ],
+    [
+        "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default/classes/RunBackgroundCheck.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lee.jong/projects/salesforce/blockchain-hackday/sc-hackday-may-2018/force-app/main/default/classes/RunBackgroundCheck.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1525546739495,
+            "changeTime": 1525546739496,
+            "contentHash": "4d7f018d60d713d2594ac1178e484e1eb78e2332"
+        }
+    ]
+]

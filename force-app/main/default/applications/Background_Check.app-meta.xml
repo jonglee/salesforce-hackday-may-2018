@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>backgroundcheck</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Pre-employment background check</description>
+    <formFactors>Large</formFactors>
+    <label>Background Check</label>
+    <navType>Standard</navType>
+    <tabs>Candidate__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Background_Check_UtilityBar</utilityBar>
+</CustomApplication>

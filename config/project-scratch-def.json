@@ -1,0 +1,7 @@
+{
+    "orgName": "Service Cloud Hackday May 2018",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
