@@ -15,6 +15,11 @@
         <field>Candidate__c.Background_Checked__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Candidate__c.Description__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Candidate__c-Candidate Layout</layout>
     </layoutAssignments>
